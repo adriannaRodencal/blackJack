@@ -1,0 +1,12 @@
+club, ace
+club, two
+club, three
+club, four
+club, five
+club, six
+club, seven
+club, eight
+club, nine
+club, jack
+club, queen
+club, king
